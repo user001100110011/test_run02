@@ -1,0 +1,34 @@
+input[type="checkbox"]:checked + h3{
+    display:block;
+}
+#check{
+    display:none;
+}
+h3{
+    display:none;
+    font-family:serif;
+    text-align:center;
+}
+
+
+h1{
+    text-align:center;
+    font-family: serif;
+    
+}
+h2{
+    text-align:center;
+    font-family: serif;
+}
+p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+}
+.b{
+    font-family:serif;
+    font-size:22px;
+}
+.bb{
+    font-family:serif;
+    font-size:18px;
+}
